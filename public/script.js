@@ -1,5 +1,5 @@
-const TON_CONNECT_MANIFEST = "./tonconnect-manifest.json";
-const BACKEND_URL = "https://ton-iske.onrender.com";
+const TON_CONNECT_MANIFEST = "tonconnect-manifest.json";
+const BACKEND_URL = "https://ton-iske.onrender.com/";
 const ENCR_KEY = 500; // Must match backend encr_key
 
 // Helper encryption function matching backend prs/srp logic
