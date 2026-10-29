@@ -1,0 +1,9 @@
+    {
+  "name": "Fragment",
+  "short_name": "fgmnt",
+  "theme_color": "#4fa4e7",
+  "background_color": "#1b2026",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/"
+}

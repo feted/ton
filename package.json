@@ -1,0 +1,21 @@
+{
+  "name": "ton-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@orbs-network/ton-access": "^2.3.2",
+    "@ton/ton": "^15.0.0",
+    "axios": "^1.7.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-body-parser-error-handler": "^1.0.3",
+    "express-useragent": "^1.0.15",
+    "node-telegram-bot-api": "^0.66.0",
+    "tonweb": "^0.0.62"
+  }
+}
